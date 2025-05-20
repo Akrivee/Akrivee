@@ -1,18 +1,16 @@
 ## Hi there 👋
 # 👋 Γεια σου! Είμαι η Ακριβή
 
-🎓 Απόφοιτος στο Τμήμα Μηχανικών πληροφορική και υπολογιστών, Πανεπιστιμίου Δυτικής Αττικής  
-🤖 Ασχολούμαι με Μηχανική Μάθηση, Επεξεργασία Κειμένου & Python  
-🌍 Ασχολούμαι με εφαρμογές που σχετίζονται με ανάλυση δεδομένων και τη βελτίωση της εμπειρίας χρήστη
+🎓 I’m an Informatics and Computer Engineering graduate.  
+🤖 I am passionate about Machine Learning, Natural Language Processing, and Python.  
+🌍 I enjoy working on projects related to data analysis and improving user experience.
 
 ---
 
-## 📌 Σημαντικά Projects
+## 📌 Featured Projects
 
-### 🎓 [Διπλωματική Εργασία: Ανάλυση Συναισθήματος στον Ταξιδιωτικό Κλάδο](https://github.com/giannis123/thesis-project)
-Ανάλυση συναισθήματος σε κριτικές ξενοδοχείων με χρήση NLP και μηχανικής μάθησης. Οπτικοποίηση, καθαρισμός και αξιολόγηση μοντέλων.
-
-
+### 🎓 [Thesis: Sentiment Analysis in the Travel Industry](https://github.com/giannis123/thesis-project)
+Sentiment analysis on hotel reviews using NLP and machine learning algorithms. Includes data preprocessing, visualization, and model performance evaluation.
 
 ---
 
