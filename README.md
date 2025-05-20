@@ -1,5 +1,5 @@
 ## Hi there 👋
-# 👋 Γεια σου! Είμαι η Ακριβή
+
 
 🎓 I’m an Informatics and Computer Engineering graduate.  
 🤖 I am passionate about Machine Learning, Natural Language Processing, and Python.  
