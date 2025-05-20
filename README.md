@@ -26,8 +26,8 @@
 ---
 
 ## 📫 Επικοινωνία
-- Email:akriveegr@gmail.com  
-- LinkedIn: (www.linkedin.com/in/akrivi-grigoropoulou)
+- Email: akriveegr@gmail.com  
+- LinkedIn: www.linkedin.com/in/akrivi-grigoropoulou
 
 ---
 
